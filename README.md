@@ -105,6 +105,15 @@ Now once you are ready then execute the chloro-rt for executing your runtime , T
 
 ## Congratulations you have mastered chloro-cc
 
+## Compiling chloro
+Let's compile chloro-cc also for creating projects
+Make sure that you has g++ or llvm installed. and working directory is same where chloro-cc source code of main.cpp is present
+```bash
+g++ main.cpp -o chloro
+```
+
+now you can use chloro with it's flags like --version, --help , --new
+
 # Contributing?
 This project is ready for contributions how to do is here.
 fork -> edit -> pull request
