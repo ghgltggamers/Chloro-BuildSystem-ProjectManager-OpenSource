@@ -1,0 +1,14 @@
+./project-name
+    chloro/
+        chloro-runtime.cpp
+    chloro-info
+    cc/
+        main.cc
+        project-name.hpp
+        README.md
+        LICENSE
+        CHANGELOGS.md
+    bin/
+        main
+    configure-chloro-runtime.sh
+    chloro
